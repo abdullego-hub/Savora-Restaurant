@@ -36,7 +36,7 @@ export default function Footer() {
                             Express Mall, Garissa, Kenya
                         </li>
                         <li className="flex items-center gap-3">
-                            <Phone size={16} className="text-ember shrink-0" /> +254 700 123 456
+                            <Phone size={16} className="text-ember shrink-0" /> +254 711 928 444
                         </li>
                         <li className="flex items-center gap-3">
                             <Mail size={16} className="text-ember shrink-0" /> hello@savora.co.ke

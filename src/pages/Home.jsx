@@ -58,7 +58,7 @@ export default function Home() {
                     </h1>
                     <p className="text-mocha/80 text-lg mt-5 max-w-lg leading-relaxed">
                         From sizzling burgers to wood-fired pizza — Savora brings the finest
-                        flavours of Nairobi straight to your doorstep, hot and fresh.
+                        flavours of Garissa straight to your doorstep, hot and fresh.
                     </p>
                     <div className="flex flex-wrap gap-4 mt-8">
                         <Link to="/menu" className="btn-primary">
