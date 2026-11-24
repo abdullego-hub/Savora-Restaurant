@@ -24,7 +24,7 @@ const testimonials = [
     {
         name: "Abdirahman Dekow",
         role: "Regular Customer",
-        text: "The double smash burger is hands-down the best in Nairobi. Delivery is always fast and the food arrives hot.",
+        text: "The double smash burger is hands-down the best in Garissa. Delivery is always fast and the food arrives hot.",
         color: "bg-ember",
     },
     {
