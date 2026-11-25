@@ -36,7 +36,7 @@ const testimonials = [
     {
         name: "Adesh Fx.",
         role: "Weekend Loyalist",
-        text: "Ordered for a family dinner — everything from the pizza to the lava cake was perfect. Highly recommended!",
+        text: "Ordered for a family dinner — everything from the pizza to the lava cake was perfect. Highly recommended! Consider adding choma.",
         color: "bg-cocoa",
     },
 ];
